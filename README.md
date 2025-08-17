@@ -1,4 +1,4 @@
-# Alura-Challenge-Telecom-2-Desaf-o-Final
+# Alura-Challenge-Telecom-2-Desafio-Final
 
 Telecom X
 🎯 Misión del Proyecto
